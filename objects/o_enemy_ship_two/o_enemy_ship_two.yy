@@ -31,12 +31,11 @@
   ],
   "properties": [
     {"varType":1,"value":"320","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"attack_range","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":1,"value":"30","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"fire_rate","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"60","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"fire_rate","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"max_armor","path":"objects/o_ship_parent/o_ship_parent.yy",},"objectId":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"armor","path":"objects/o_ship_parent/o_ship_parent.yy",},"objectId":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"max_speed","path":"objects/o_ship_parent/o_ship_parent.yy",},"objectId":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

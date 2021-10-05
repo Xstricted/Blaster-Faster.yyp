@@ -1,8 +1,4 @@
 {
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -20,6 +16,10 @@
   "For3D": false,
   "width": 16,
   "height": 16,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "swatchColours": null,
   "gridX": 0,
   "gridY": 0,
@@ -44,7 +44,7 @@
             {"id":"07f48d2d-f5ff-436f-854d-88d112a45745","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09e96d93-9b88-49c3-8501-370ffa8e2128","path":"sprites/s_explosion_particle/s_explosion_particle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
-    "visibleRange": {"x":0.0,"y":0.0,},
+    "visibleRange": null,
     "lockOrigin": false,
     "showBackdrop": true,
     "showBackdropImage": false,
